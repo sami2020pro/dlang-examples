@@ -17,7 +17,7 @@ In general, I'm interested in **teaching** and **helping**, and I wanted to teac
 A great help you can give to this **project** is to find bugs and code bugs and tell us in the `Issues GitHub` section with the **delp** label.
 
 ### How to contribute this project :question:
-Usually this **projec** does'nt accept contributions and it happens very rarely.
+Usually this **project** does'nt accept contributions and it happens very rarely.
 
 ### References
 - <a href="https://dlang.org/documentation">dlang.org</a>
