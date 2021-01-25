@@ -10,6 +10,8 @@
 - English
 - Persian
 
+### Why i created this project :question:
+
 ### How to help this project :question:
 A great help you can give to this **project** is to find bugs and code bugs and tell us in the `Issues GitHub` section with the **delp** label.
 
