@@ -9,3 +9,7 @@
 ### Available languages
 - English
 - Persian
+
+### References
+- <a href="https://dlang.org/documentation">dlang.org</a>
+- <a href="https://tutorialspoint.com/d_programming">tutorialspoint.com</a>
