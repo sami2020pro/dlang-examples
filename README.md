@@ -1,6 +1,6 @@
 ### dlang examples
 
-![dlang examples completion status](https://badgen.net/badge/completion/no/red?icon=awesome)
+![dlang examples completion status](https://badgen.net/badge/completion/no/red)
 ![dlang examples language status](https://badgen.net/badge/language/d/grey)
 ![dlang examples license status](https://badgen.net/badge/license/BSD-3-Clause/grey)
 
