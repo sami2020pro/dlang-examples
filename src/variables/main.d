@@ -12,7 +12,7 @@ int a = 10, b = 10;
 int c;
 float f;
 
-int main() {
+int main(string[] args) {
 	writeln("Value of a is: ", a);
 	
 	/* variable re definition: */
