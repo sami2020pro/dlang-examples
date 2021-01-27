@@ -26,7 +26,7 @@ class Rectangle : Shape {
 		}
 }
 
-void main() {
+void main(string[] args) {
 	Rectangle Rect = new Rectangle();
 	Rect.setWidth(5);
 	Rect.setHeight(7);
