@@ -4,7 +4,13 @@
 ![dlang examples language status](https://badgen.net/badge/language/d/grey)
 ![dlang examples license status](https://badgen.net/badge/license/BSD-3-Clause/grey)
 
-![dlang examples](https://github.com/sami2020pro/dlang-examples/blob/main/dlang-examples/data/dlang-examples-1280-640.png?raw=true)
+<a href="https://github.com/sami2020pro/dlang-examples/data/">
+    <img
+      src="https://github.com/sami2020pro/dlang-examples/data/dlang-examples-1280-640.png"
+      alt="dlang examples"
+      style="max-width:100%;"
+    />
+</a>
 
 `dlang-examples` repository teaches you the **D** programming language with examples and explanations.
 
