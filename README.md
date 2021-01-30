@@ -5,7 +5,7 @@
 ![dlang examples license status](https://badgen.net/badge/license/BSD-3-Clause/grey)
 
 <img
-    src="https://github.com/sami2020pro/dlang-examples/data/dlang-examples-1280-640.png"
+    src="https://github.com/sami2020pro/dlang-examples/blob/main/data/dlang-examples-1280-640.png"
     alt="dlang examples"
     style="max-width:100%;"
 />
