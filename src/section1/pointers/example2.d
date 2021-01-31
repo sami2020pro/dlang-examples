@@ -1,6 +1,6 @@
 import std.stdio;
 
-void main() {
+void main(string[] args) {
 	int var = 20; // actual variable declaration
 	int *ip;	  // pointer variable
 	ip = &var;	  // store address of var in pointer variable
