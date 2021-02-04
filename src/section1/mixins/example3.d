@@ -20,7 +20,7 @@ struct College {
 	mixin Department!(string, 2);
 }
 
-void main() {
+void main(string[] args) {
 	auto college = College();
 
 	college.setName(0, "Sami");
