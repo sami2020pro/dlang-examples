@@ -15,6 +15,7 @@
 ### Available languages
 - English
 - Persian
+- Japanese
 
 ### Why I created this project :question:
 In general, I'm interested in **teaching** and **helping**, and I wanted to teach you the **D** programming language better than before.
