@@ -12,3 +12,9 @@ void main(string[] args) { /* Your first program */
 ```
 
 For example, if you have already programmed or are familiar with **C**, you will realize how good the **D** syntax is.
+
+The output of above code
+
+```
+Hello, World!
+```
